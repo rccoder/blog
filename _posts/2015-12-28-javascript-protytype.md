@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "JavaScript 之原型周边"
-date:   2016-01-18 18:26:42 +0800
-categories: jekyll update
+date:   2015-12-28 18:26:42 +0800
+categories: JavaScript
 ---
+
 ## 简介
 
 如果之间学习过`cpp`  、`java` 之类的语言，都会知道他们是可以基于类 `class` 进行继承的， 在`JavaScript` 中，并没有类继承这个概念，要实现`JavaScript` 中的继承，需要原型来帮助。
@@ -13,21 +14,29 @@ categories: jekyll update
 {% highlight javascript %}
 
 function Foo () {
+
   this.value = 1;
+
 };
 
 Foo.prototype = {
+
   method: function () {};
+
 };
 
 //设置Bar的原型为Foo()的实例
+
 Bar.prototype = new Foo();
+
 Bar.prototype.foo = 'Hello World';
 
 //修正Bar的constructor
+
 Bar.prototype.constructor = Bar;
 
 //创建一个Bar的实例
+
 var test = new Bar();
 
 {% endhighlight %}
