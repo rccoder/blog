@@ -11,7 +11,7 @@ categories: JavaScript
 
 比如在下面的这段代码中：
 
-{% highlight javascript %}
+``` javascript
 
 function Foo () {
 
@@ -39,7 +39,7 @@ Bar.prototype.constructor = Bar;
 
 var test = new Bar();
 
-{% endhighlight %}
+```
 
 在这段代码中，就一直维护着一个原型链，抽象化的理解起来可能是这样的：
 

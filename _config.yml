@@ -19,3 +19,5 @@ github_username:  rccoder
 
 # Build settings
 markdown: kramdown
+kramdown:
+    input: GFM
