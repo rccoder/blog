@@ -3,6 +3,7 @@ layout: post
 title:  "JavaScript 之 this 指向问题"
 date:   2015-12-29 18:26:42 +0800
 categories: JavaScript
+github_issues: 2
 ---
 
 ## 1. 一等公民对象——函数

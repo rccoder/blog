@@ -3,6 +3,7 @@ layout: post
 title:  "JavaScript 之原型周边"
 date:   2015-12-28 18:26:42 +0800
 categories: JavaScript
+github_issues: 5
 ---
 
 ## 简介

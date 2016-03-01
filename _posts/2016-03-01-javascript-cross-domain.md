@@ -3,6 +3,7 @@ layout: post
 title:  "浅谈浏览器端JavaScript跨域解决方法"
 date:   2016-03-01 15:26:42 +0800
 categories: JavaScript
+github_issues: 5
 ---
 由于安全的原因，浏览器做了很多方面的工作，由此也就引入了一系列的跨域问题，需要注意的是：
 

@@ -3,6 +3,7 @@ layout: post
 title:  "JavaScript之对象创建"
 date:   2016-01-01 18:26:42 +0800
 categories: JavaScript
+github_issues: 4
 ---
 
 ## 1.构造函数模式
