@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, 很高兴认识你，这是我的技术博客。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+如果你想在更多的地方认识我，可以选择下面的各种方式：
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+**GitHub:** [rccoder](https://github.com/rccoder)
+
+**知乎:**  [rccoder](https://www.zhihu.com/people/rccoder)
+
+**Weibo:** [rccoder](http://weibo.com/rccoder)
+
+**segmentfault:** [rccoder](https://segmentfault.com/u/rccoder)
+
+**stackoverflow:** [rccoder](http://stackoverflow.com/users/4681656/rccoder)
+
+**Linkedin:** [rccoder](https://cn.linkedin.com/in/尚斌-杨-7803a7b8)
+
+对了，如果你想"金钱"联络一下感情，可以扫描下面的二维码试试：
+
+![alipay](https://cloud.githubusercontent.com/assets/7554325/13387514/4e6c3b42-def2-11e5-849c-90c5f1109fe7.png)
