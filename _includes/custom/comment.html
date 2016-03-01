@@ -5,7 +5,7 @@
 <script src="http://hit9.github.io/petal/build/petal.min.js" type="text/javascript" charset="utf-8"></script>
 <script>
     $(document).ready(function(){  // important!
-        $.petal.init("rccoder/blog", {{ page.github_issues }}) // $.petal.init(repo, issue_id)
+        $.petal.init("{{ site.user }}/{{ site.repo }}", {{ page.github_issues }}) // $.petal.init(repo, issue_id)
     })
 </script>
 <div class="petal"></div>

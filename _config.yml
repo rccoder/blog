@@ -19,3 +19,6 @@ github_username:  rccoder
 markdown: kramdown
 kramdown:
     input: GFM
+
+user: rccoder
+repo: blog

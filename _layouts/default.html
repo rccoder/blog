@@ -10,7 +10,14 @@
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
+        <h3>评论：</h3>
         {% include custom/comment.html %}
+        <div class="petal-dec">
+          <p>
+          上述评论由<a href="https://github.com/hit9/petal">petal</a>获取得到, 如果你想评论本文章，请去<a href="http://github.com/{{ site.user }}/{{ site.repo }}/issues/{{ page.github_issues }}">这里</a>评论，内容将自动同步.
+          </p>
+          <p>对了，不要忘记star一下</p>
+        </div>
       </div>
     </div>
     {% include footer.html %}
