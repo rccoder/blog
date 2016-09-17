@@ -9,19 +9,17 @@
 
 ## 订阅点赞
 
-如果你觉得内容还算不错， **star** 是极好的；如果你不想错过这里的任何信息，**watch**也是极好的；如果你想转载，带上没有**nofollow**的链接也是极好的。
+* 关注订阅请 **watch**
+* 点赞点赞请 **star**
+
+## 版权声明
+
+* 请尊重辛勤劳动
+* 禁止不署名完全转载，可单独通过下面的捐赠付版权费
+* 建议署名并进行摘要性质转载
 
 ## 捐赠
 
 写文不易，赠我一杯咖啡增强一下感情可好？
 
 ![alipay](https://cloud.githubusercontent.com/assets/7554325/13387514/4e6c3b42-def2-11e5-849c-90c5f1109fe7.png)
-
-## License
-
-**署名-非商业性使用-禁止演绎 3.0 未本地化版本 (CC BY-NC-ND 3.0)**
->
-  + 署名 — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-  + 非商业性使用 — 您不得将本作品用于商业目的。
-  + 禁止演绎 — If you remix, transform, or build upon the material, you may not distribute the modified material.
-
