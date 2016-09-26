@@ -1,0 +1,108 @@
+.userinfo {
+  padding-top: 40rpx;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx auto;
+  border-radius: 50%;
+}
+.userinfo-nickname {
+   text-align: center;
+   font-size: 12rpx;
+}
+
+.content {
+  margin-top: 80rpx;
+  color: #999999;
+  position: relative;
+  background: white;
+}
+.content:before{
+    content: " ";
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    height: 1px;
+    border-top: 1px solid #E5E5E5;
+    color: #E5E5E5;
+    transform-origin: 0 0;
+    transform: scaleY(0.5);
+}
+.content:after{
+    content: " ";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 1px;
+    border-bottom: 1px solid #E5E5E5;
+    color: #E5E5E5;
+    transform-origin: 0 0;
+    transform: scaleY(0.5);
+}
+.panel-hd {
+  padding: 30rpx 28rpx 20rpx;
+  font-size: 26rpx;
+}
+.panel-bd .box {
+  position: relative;
+  padding: 30rpx;
+}
+.panel-bd .box:before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 1rpx;
+    border-top: 1rpx solid #E5E5E5;
+    color: #E5E5E5;
+    transform-origin: 0 0;
+    transform: scaleY(0.5);
+    left: 15rpx;
+}
+.panel-bd .box .title {
+  display: block;
+  margin-bottom: 16rpx;
+  font-size: 34rpx;
+  font-weight: 400;
+  width: auto;
+  overflow: hidden;
+  color: #000000;
+}
+.panel-bd .box .desc {
+  display: block;
+  font-size: 26rpx;
+  color: #999999;
+}
+.panel-ft {
+  position: relative;
+  font-size: 24rpx;
+  display: flex;
+  justify-content: flex-end;
+  padding: 20rpx;
+}
+.panel-ft:before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 1rpx;
+    border-top: 1rpx solid #E5E5E5;
+    color: #E5E5E5;
+    transform-origin: 0 0;
+    transform: scaleY(0.5);
+    left: 15rpx;
+}
+.footer {
+  height: 200rpx;
+  font-size: 24rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

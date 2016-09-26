@@ -1,0 +1,23 @@
+<!--index.wxml-->
+<view class="container">
+  <view  bindtap="bindViewTap" class="userinfo">
+    <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+    <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+  </view>
+  <view class="content">
+    <view class="panel-hd">
+      <text>文章列表</text>
+    </view>
+    <view class="panel-bd" wx:for="{{issuesContent}}">
+      <view class="box">
+        <text class="title">{{item.title}}</text>
+        <text class="desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道</text>
+      </view>
+    </view>
+  </view>
+  <view class="footer">
+    <text class="ft-text">©️ 2016 rccoder</text>
+  </view>
+</view>
+
+
